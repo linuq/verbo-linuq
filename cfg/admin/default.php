@@ -4,8 +4,8 @@
     $deff[ 'mythemes-logo-top' ]                = 0;
     $deff[ 'mythemes-logo-left' ]               = 0;
     
-    $deff[ 'mythemes-first-color' ]             = '#00aeef';
-    $deff[ 'mythemes-second-color' ]            = '#26ad60';
+    $deff[ 'mythemes-first-color' ]             = '#282E50';
+    $deff[ 'mythemes-second-color' ]            = '#2E3F76';
 
     $deff[ 'mythemes-default-content' ]         = 1;
 
@@ -25,26 +25,26 @@
     
 
     $deff[ 'mythemes-show-header-title' ]       = 1;
-    $deff[ 'mythemes-header-title' ]            = 'Verbo by myThem.es';
+    $deff[ 'mythemes-header-title' ]            = 'Bienvenue à LinuQ!';
 
     $deff[ 'mythemes-show-header-desc' ]        = 1;
-    $deff[ 'mythemes-header-desc' ]             = 'Verbo is an free, elegant, clean and responsive WordPress Theme.';
+    $deff[ 'mythemes-header-desc' ]             = 'Association de promotion des logiciels libres à Québec.';
 
     $deff[ 'mythemes-show-first-button' ]       = 1;
-    $deff[ 'mythemes-first-button-label' ]      = 'Download';
-    $deff[ 'mythemes-first-button-desc' ]       = 'Download free WordPress theme Verbo';
+    $deff[ 'mythemes-first-button-label' ]      = 'En Savoir plus';
+    $deff[ 'mythemes-first-button-desc' ]       = 'Détails sur le logiciel libre et LinuQ';
 
     $deff[ 'mythemes-show-second-button' ]      = 1;
-    $deff[ 'mythemes-second-button-label' ]     = 'Preview';
-    $deff[ 'mythemes-second-button-desc' ]      = 'Preview demo for WordPress theme Verbo';
+    $deff[ 'mythemes-second-button-label' ]     = 'Nos activités';
+    $deff[ 'mythemes-second-button-desc' ]      = 'Les prochaines activités LinuQ';
 
 
     /* SOCIAL */
-    $deff[ 'mythemes-vimeo' ]                   = 'http://vimeo.com/yourprofile/';
-    $deff[ 'mythemes-twitter' ]                 = 'http://twitter.com/yourprofile/';
-    $deff[ 'mythemes-linkedin' ]                = 'http://linkedin.com/yourprofile/';
-    $deff[ 'mythemes-facebook' ]                = 'http://facebook.com/yourprofile/';
-    $deff[ 'mythemes-pinterest' ]               = 'http://pinterest.com/yourprofile/';
+    $deff[ 'mythemes-vimeo' ]                   = '';
+    $deff[ 'mythemes-twitter' ]                 = 'https://twitter.com/linuq';
+    $deff[ 'mythemes-linkedin' ]                = '';
+    $deff[ 'mythemes-facebook' ]                = 'https://www.facebook.com/groups/linuq/';
+    $deff[ 'mythemes-pinterest' ]               = '';
     $deff[ 'mythemes-rss' ]                     = 1;
 
 
@@ -62,7 +62,7 @@
 
 
     /* FOOTER */
-    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. Powered by <a href="http://wordpress.org" target="_blank">WordPress</a>. Designed by <a href="http://mythem.es" target="_blank" title="myThemes">myThem.es</a>';
+    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. Thème par <a href="http://mythem.es" target="_blank" title="myThemes">myThem.es</a>, customisation LinuQ. Logo, Gabrielle Maheux-Leclerc';
 	
     
 ?>

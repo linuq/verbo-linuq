@@ -7,10 +7,10 @@
         if( myThemes::get( 'default-content' ) ){
             echo '<div class="widget website-description">';
             echo '<h1>';
-            echo '<a href="" title="Verbo - premium wordpress theme">Verbo</a>';
+            echo '<a href="" title="LinuQ">LinuQ</a>';
             echo '</h1>';
-            echo '<p>Vivamus imperdiet felis consectetur onec eget orci adipiscing nunc.<br>';
-            echo 'Pellentesque fermentum, ante ac interdum ullamcorper.</p>';
+            echo '<p>N’hésitez pas à nous contacter si vous avez des questions, <br>';
+            echo 'commentaires ou propositions de présentations/projets!</p>';
             echo '</div>';
         }
     }
