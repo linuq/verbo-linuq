@@ -41,6 +41,7 @@
 
                         <div class="col-lg-12 mythemes-delimiter"><div class="delimiter-item"></div></div>
                     </aside>
+        
 
             <?php
                 }

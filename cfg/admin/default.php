@@ -15,12 +15,12 @@
     
 
     $deff[ 'mythemes-show-header' ]             = 1;
-    $deff[ 'mythemes-header-height' ]           = 500;
+    $deff[ 'mythemes-header-height' ]           = 350;
 
 
     /* HEADER */
     $deff[ 'mythemes-mask-color' ]              = '#000000';
-    $deff[ 'mythemes-mask-opacity' ]            = 80;
+    $deff[ 'mythemes-mask-opacity' ]            = 10;
     $deff[ 'mythemes-button-shadow-opacity' ]   = 50;
     
 
