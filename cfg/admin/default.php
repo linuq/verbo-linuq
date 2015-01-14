@@ -32,7 +32,7 @@
 
     $deff[ 'mythemes-show-first-button' ]       = 1;
     $deff[ 'mythemes-first-button-label' ]      = 'Devenir Membre';
-    $deff[ 'mythemes-first-button-desc' ]       = 'Devenir membre de linuq';
+    $deff[ 'mythemes-first-button-desc' ]       = 'Devenez membre de linuq';
 
     $deff[ 'mythemes-show-second-button' ]      = 1;
     $deff[ 'mythemes-second-button-label' ]     = 'Nos activités';
@@ -62,7 +62,7 @@
 
 
     /* FOOTER */
-    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. Thème par <a href="http://mythem.es" target="_blank" title="myThemes">myThem.es</a>, customisation LinuQ. Logo, Gabrielle Maheux-Leclerc';
+    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. <a href="https://github.com/pieplu/verbo-linuq" target="_blank" title="myThemes">Theme linuQ</a>. Logo, Gabrielle Maheux-Leclerc';
 	
     
 ?>
