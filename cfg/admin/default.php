@@ -35,8 +35,8 @@
     $deff[ 'mythemes-first-button-desc' ]       = 'Devenez membre de linuq';
 
     $deff[ 'mythemes-show-second-button' ]      = 1;
-    $deff[ 'mythemes-second-button-label' ]     = 'Nos activités';
-    $deff[ 'mythemes-second-button-desc' ]      = 'Les prochaines activités LinuQ';
+    $deff[ 'mythemes-second-button-label' ]     = 'Nous trouver';
+    $deff[ 'mythemes-second-button-desc' ]      = 'Adresse de notre local habituel';
 
 
     /* SOCIAL */

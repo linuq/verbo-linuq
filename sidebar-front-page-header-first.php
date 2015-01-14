@@ -7,8 +7,9 @@
         /* IF EMPTY */
         if( myThemes::get( 'default-content' ) ){
             echo '<div class="widget widget_text">';
-            echo '<h3>Many Components</h3>';
-            echo '<div class="textwidget">There are a lot of different components that will help you to make a perfect suit for startup project with WordPress theme Verbo.</div>';
+            echo '<h3>Qui Sommes Nous</h3>';
+            echo '<div class="textwidget">LinuQ est une association qui a pour vocation de promouvoir et vulgariser les logiciels libres (« open source ») dans la ville de Québec</div>';
+            echo '<div><a class="btn btn-primary" href="/qui-sommes-nous">en savoir plus</a></div>';
             echo '</div>';
         }
     }
