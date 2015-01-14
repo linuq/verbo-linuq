@@ -53,7 +53,7 @@
     $deff[ 'mythemes-sidebar' ]                 = 'main-sidebar';
 
     $deff[ 'mythemes-front-page-layout' ]       = 'right';
-    $deff[ 'mythemes-front-page-sidebar' ]      = 'front-page-sidebar';
+    $deff[ 'mythemes-front-page-sidebar' ]      = 'main-sidebar';
 
     $deff[ 'mythemes-single-layout' ]           = 'right';
     $deff[ 'mythemes-single-sidebar' ]          = 'single-sidebar';
