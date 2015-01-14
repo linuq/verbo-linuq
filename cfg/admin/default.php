@@ -31,8 +31,8 @@
     $deff[ 'mythemes-header-desc' ]             = 'Association de promotion des logiciels libres à Québec.';
 
     $deff[ 'mythemes-show-first-button' ]       = 1;
-    $deff[ 'mythemes-first-button-label' ]      = 'En Savoir plus';
-    $deff[ 'mythemes-first-button-desc' ]       = 'Détails sur le logiciel libre et LinuQ';
+    $deff[ 'mythemes-first-button-label' ]      = 'Devenir Membre';
+    $deff[ 'mythemes-first-button-desc' ]       = 'Devenir membre de linuq';
 
     $deff[ 'mythemes-show-second-button' ]      = 1;
     $deff[ 'mythemes-second-button-label' ]     = 'Nos activités';

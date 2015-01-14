@@ -39,7 +39,7 @@
                             <?php echo $third; ?>
                         </div>
 
-                        <div class="col-lg-12 mythemes-delimiter"><div class="delimiter-item"></div></div>
+                        <div class="col-md-12 col-lg-12 mythemes-delimiter"><div class="delimiter-item"></div></div>
                     </aside>
         
 
