@@ -3,8 +3,7 @@
    
 Auteur: @Pieplu
 
-**Notes:** Ce theme à été modifié pour ne pas avoir à trop le configuré dans la base de donnée
-(champ pré-rempli).
+**Notes:** Ce theme à été modifié pour ne pas avoir à trop le configurer dans la base de donnée wordpress (champs pré-rempli).
   
    
 ## Verbo
