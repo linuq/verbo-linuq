@@ -62,7 +62,7 @@
 
 
     /* FOOTER */
-    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. <a href="https://github.com/pieplu/verbo-linuq" target="_blank" title="myThemes">Theme linuQ</a>. Logo, Gabrielle Maheux-Leclerc';
+    $deff[ 'mythemes-footer-text' ]             = 'Copyright &copy; ' . date( 'Y' ) . '. <a href="https://github.com/linuq/verbo-linuq" target="_blank" title="Theme LinuQ">Theme linuQ</a>. <a href="https://github.com/linuq/logo-linuq">Logo</a>, Gabrielle Maheux-Leclerc';
 	
     
 ?>
