@@ -1,13 +1,16 @@
 
-   # Thème LinuQ basé sur Verbo
+# Thème LinuQ basé sur Verbo
    
-   Auteur: @Pieplu
+Auteur: @Pieplu
+
+**Notes:** Ce theme à été modifié pour ne pas avoir à trop le configuré dans la base de donnée
+(champ pré-rempli).
   
    
-   ## Verbo
+## Verbo
 
-    Verbo WordPress Theme, Copyright 2014 myThem.es
-    Verbo is distributed under the terms of the GNU GPL
+Verbo WordPress Theme, Copyright 2014 myThem.es
+Verbo is distributed under the terms of the GNU GPL
 
     - Theme URI         : http://mythem.es/item/verbo-free-wordpress-themes/
     - Support URI       : http://mythem.es/forums/forum/themes/verbo/verbo-free/
@@ -16,7 +19,7 @@
     - Author URI        : http://mythem.es
 
     
-   ### Used Open Source Fonts
+### Used Open Source Fonts
 
     - More about            : http://www.google.com/fonts#AboutPlace:about
     - Used Fonts            : Montserrat, Noto Sans
@@ -24,7 +27,7 @@
     - Used Icons Fonts	    : Fontello
     - Fontello URI 	    : http://fontello.com/
 
-   ### LICENCES
+### LICENCES
 	
     - Graphics license      : GNU General Public License v2.0
     - Framework license     : GNU General Public License v2.0
